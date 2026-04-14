@@ -1,49 +1,58 @@
 # Jose Nuñez Garcia
 
-Senior SDET | Automation Engineer | Systems Builder
+SDET | Automation Engineer | Systems Builder
 
-I design and build testing frameworks and internal systems focused on reliability, scalability, and testability. My work sits at the intersection of engineering, product, and quality, where I focus on making systems verifiable, maintainable, and production-ready.
+I design and build testing frameworks and internal systems from scratch, focusing on scalability, reliability, and testability. My work combines automation, backend understanding, and product thinking to ensure systems are not only functional, but verifiable and maintainable at scale.
 
 ---
 
 ## What I Do
 
-- Build automation frameworks from scratch (UI, API, integration)
-- Design test architectures for scalable and maintainable systems
-- Improve testability by working closely with development teams
-- Validate microservices, service interactions, and data flows
+- Build automation frameworks (UI, API, integration) from scratch
+- Design test architectures for scalable systems
+- Validate microservices and data flows across services
+- Improve testability by working directly with development teams
 - Integrate automated testing into CI/CD pipelines
 - Contribute to system design with a focus on long-term quality
 
 ---
 
-## Tech Stack
+## Core Stack
 
-**Automation & Testing**
-- Playwright (UI & API automation)
+**Automation**
+- Playwright (UI & API testing)
 - TypeScript, C#
-- Integration and microservices testing
 
 **Backend & Data**
 - SQL, PostgreSQL
-- API validation and data flow verification
+- API validation and data flow testing
 
 **Infrastructure**
-- CI/CD (GitHub Actions)
 - Docker
+- CI/CD (GitHub Actions)
 
 ---
 
 ## Featured Work
 
 ### SDET Playwright Microservices Framework
-A scalable automation framework designed to validate real system behavior across UI, APIs, and database layers.
+A production-oriented automation framework designed to validate real system behavior across UI, APIs, and database layers.
 
-- Structured test architecture (UI, API, integration layers)
+- Layered architecture (UI, API, integration)
 - Reusable API clients and test utilities
 - Database validation using PostgreSQL
 - Environment-based configuration
-- CI/CD pipeline integration with GitHub Actions
+- CI/CD integration with GitHub Actions
+- Focus on microservices flow validation (request chaining, persistence, downstream effects)
+
+---
+
+## Impact
+
+- Designed and implemented automation frameworks from scratch to improve system validation
+- Improved testability by aligning testing strategy with system architecture
+- Reduced debugging time by introducing API and database-level validation
+- Built CI/CD-integrated testing pipelines for continuous validation
 
 ---
 
@@ -52,15 +61,15 @@ A scalable automation framework designed to validate real system behavior across
 I don’t focus on writing isolated tests.
 
 I focus on building systems that:
-- make quality part of development, not an afterthought
 - scale with the product without becoming brittle
-- provide real confidence in releases through meaningful validation
+- provide real confidence in releases
+- integrate quality into the development process, not after it
 
 ---
 
 ## Background
 
-I have experience building systems and frameworks from scratch across backend, automation, and DevOps environments. This allows me to approach quality engineering from a system-level perspective, not just from a testing standpoint.
+I have experience building systems across backend, automation, and DevOps environments. This allows me to approach quality engineering from a system-level perspective, bridging the gap between product requirements and technical validation.
 
 ---
 
