@@ -1,16 +1,39 @@
-## Hi there 👋
+# Jose Nuñez Garcia
 
-<!--
-**Double-P-99/Double-P-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior SDET | Automation Engineer | Systems Builder
 
-Here are some ideas to get you started:
+I design and build testing frameworks and internal systems focused on reliability, scalability, and testability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+- Build automation frameworks from scratch (UI, API, integration)
+- Improve system testability working directly with engineering teams
+- Validate microservices, data flows, and backend systems
+- Design CI/CD pipelines for automated testing
+- Work across Playwright, TypeScript, C#, Python, and PostgreSQL
+
+## Current Focus
+
+- Playwright + TypeScript automation
+- Microservices testing and integration validation
+- Scalable test architecture and framework design
+
+## Featured Work
+
+### SDET Playwright Microservices Framework
+A scalable automation framework covering UI, API, and database validation with CI/CD integration.
+
+- Playwright + TypeScript
+- API clients and integration tests
+- PostgreSQL validation
+- Environment configuration
+- GitHub Actions pipeline
+
+## Approach
+
+I don’t focus on writing isolated tests.  
+I focus on building systems that make quality part of the development process.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/joseanunez/
